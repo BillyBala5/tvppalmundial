@@ -1,1 +1,7 @@
+name = "tvppalmundial"
+compatibility_date = "2024-09-01"
+pages_build_output_dir = "public"
 
+[vars]
+YAPPY_ENV = "production"
+SITE_DOMAIN = "https://tvppalmundial.com"
