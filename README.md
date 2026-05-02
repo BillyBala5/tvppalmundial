@@ -4,4 +4,4 @@
 - Almacén: Cloudflare KV (binding `ORDERS`)
 - Notificaciones: WhatsApp Cloud API + Resend
 
-Hecho en Panamá por Studio Mushin.
+
